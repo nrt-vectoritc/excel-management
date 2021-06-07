@@ -9,7 +9,7 @@
 <properties>
 	<spring.version>4.3.4.RELEASE</spring.version><!-- SEGURIDADPOMXML 3.2.13.RELEASE -->
 	<slf4j.version>1.6.4</slf4j.version>
-	<logback.version>1.0.7</logback.version>
+	<logback.version>1.2.0</logback.version>
 	<commons.logging.version>1.1.1</commons.logging.version>
 	<commons.logging.api.version>1.0.4</commons.logging.api.version>
 </properties>
